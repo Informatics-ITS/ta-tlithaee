@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Syarifah Talitha Erfany  
+**NRP**: 5025211175  
+**Judul TA**: Perancangan dan Implementasi Aplikasi Android untuk Pembacaan dan Pemrosesan Data DICOM 3D  
+**Dosen Pembimbing**: Prof. Drs. Ec. Ir. Riyanarto Sarno, M.Sc Ph.D.  
+**Dosen Ko-pembimbing**: Dr. Kelly Rossa Sungkono, S.Kom., M.Kom.
 
 ---
 
