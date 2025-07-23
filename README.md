@@ -10,8 +10,8 @@
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini:  
+[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
 
-[![Demo Aplikasi](https://imgur.com/a/9iLEIsr)](https://www.youtube.com/watch?v=PF0SI7b-NIQ)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
