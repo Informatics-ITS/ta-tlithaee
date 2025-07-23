@@ -1,4 +1,4 @@
-<img width="3840" height="2400" alt="image" src="https://github.com/user-attachments/assets/2874eab0-02aa-4622-a6f3-f9ee5a764115" /># 🏁 Tugas Akhir (TA) - Final Project
+# 🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Syarifah Talitha Erfany  
 **NRP**: 5025211175  
@@ -10,7 +10,7 @@
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini:  
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://imgur.com/a/9iLEIsr)](https://www.youtube.com/watch?v=PF0SI7b-NIQ)  
 
 *Klik gambar di atas untuk menonton demo*
 
