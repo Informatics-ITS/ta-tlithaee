@@ -1,4 +1,4 @@
-🏁 Tugas Akhir (TA) - Final Project
+# 🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Syarifah Talitha Erfany  
 **NRP**: 5025211175  
@@ -20,32 +20,29 @@
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+- Daftar dependensi:
+  - Android Studio
+  - Gradle
+  - JDK 17+
+  - Perangkat atau Emulator Android
 
 ### Langkah-langkah  
 1. **Clone Repository**  
    ```bash
    git clone https://github.com/Informatics-ITS/ta-tlithaee.git
    ```
-2. **Instalasi Dependensi**
-   ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
+2. **Buka Proyek di Android Studio**
+   - Buka Android Studio → File > Open → pilih folder hasil clone
+   - Tunggu hingga Gradle sync selesai
+3. **Instalasi Dependensi (Gradle)**
+   - Biasanya otomatis saat Gradle sync
+   - Atau klik `Refresh` di panel Gradle → atau jalankan manual:
    ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
+   ./gradlew build
+   ```
 4. **Jalankan Aplikasi**
-   ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
-   ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
+   - Pilih emulator/device
+   - Lalu tekan tombol Run (▶️) di Android Studio
 
 ---
 
@@ -57,13 +54,11 @@
 
 ---
 
-## ✅ Validasi
+## ✅ Arsip Lengkap Tugas Akhir
 
-Pastikan proyek memenuhi kriteria berikut sebelum submit:
-- Source code dapat di-build/run tanpa error
-- Video demo jelas menampilkan fitur utama
-- README lengkap dan terupdate
-- Tidak ada data sensitif (password, API key) yang ter-expose
+Dokumen lengkap terkait Tugas Akhir dapat ditemukan pada tautan berikut.
+
+[link]
 
 ---
 
