@@ -29,7 +29,7 @@
 ### Langkah-langkah  
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   git clone https://github.com/Informatics-ITS/ta-tlithaee.git
    ```
 2. **Instalasi Dependensi**
    ```bash
