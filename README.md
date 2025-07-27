@@ -1,4 +1,4 @@
-<img width="1903" height="1258" alt="image" src="https://github.com/user-attachments/assets/25f4edd1-0d0d-4d1a-8bcd-cc7a8c02c722" /># 🏁 Tugas Akhir (TA) - Final Project
+🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Syarifah Talitha Erfany  
 **NRP**: 5025211175  
