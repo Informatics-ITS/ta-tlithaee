@@ -46,11 +46,11 @@
 
 ---
 
-## 📚 Dokumentasi Tambahan
+## ✅ Arsip Lengkap Tugas Akhir
 
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
+Dokumen lengkap terkait Tugas Akhir dapat ditemukan pada tautan berikut.
+
+[[Google Drive]](https://drive.google.com/drive/folders/164gFQN-ACiG2QkLfbNnsAXoV5BtPaxQR?usp=sharing)
 
 ---
 
