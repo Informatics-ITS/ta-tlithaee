@@ -54,14 +54,6 @@
 
 ---
 
-## ✅ Arsip Lengkap Tugas Akhir
-
-Dokumen lengkap terkait Tugas Akhir dapat ditemukan pada tautan berikut.
-
-[link]
-
----
-
 ## ⁉️ Pertanyaan?
 
 Hubungi:
